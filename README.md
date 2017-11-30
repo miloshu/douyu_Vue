@@ -1,14 +1,29 @@
-# douyu
-技术栈:
-vue 页面显示
-vue-router实现spa
-vuex 组件状态共享
-axios 解决异步请求
-mint-ui 组件实现头部和轮播图
-webpack 文件打包
-html5 css3 flex
 
-> A Vue.js project
+<h1>douyu 文档介绍 </h1>
+<h2>效果图</h2>
+<img src="./hotSreen_gif/screenhots1.gif" />
+<img src="./hotSreen_gif/screenhots2.gif" />
+<img src="./hotSreen_gif/screenhots3.gif" />
+<img src="./hotSreen_gif/screenhots4.gif" />
+<h2>技术栈</h2>
+<ul>
+  <li>vue 页面显示</li>
+  <li>vue-router实现spa</li>
+  <li>vuex 组件状态共享</li>
+  <li>axios 解决异步请求</li>
+  <li>mint-ui头部组件和轮播图实现</li>
+  <li>webpack 文件打包</li>
+  <li>flex + 百分比布局</li>
+</ul>
+<h2>踩过的坑</h2>
+<ul>
+  <li>跨域操作</li>
+  <li>设备适配</li>
+  <li>vue组件通信</li>
+  <li>Api数据结构</li>
+</ul>
+<div>只完成部分页面功能实现,其他待开发,后期时间充足的情况下完善更多功能</div>
+
 
 ## Build Setup
 
