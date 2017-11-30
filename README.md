@@ -14,6 +14,7 @@
   <li>mint-ui头部组件和轮播图实现</li>
   <li>webpack 文件打包</li>
   <li>flex + 百分比布局</li>
+  <li>Iconfont-阿里矢量图标库</li>
 </ul>
 <h2>踩过的坑</h2>
 <ul>
