@@ -7,9 +7,9 @@
 <img src="./hotSreen_gif/screenhots4.gif" />
 <h2>技术栈</h2>
 <ul>
-  <li>vue-vue 页面显示</li>
-  <li>vue-cli 页面显示</li>
-  <li>vue-router实现spa</li>
+  <li>vue 页面显示</li>
+  <li>vue-cli 项目搭建</li>
+  <li>vue-router 实现SPA</li>
   <li>vuex 组件状态共享</li>
   <li>axios 解决异步请求</li>
   <li>mint-ui头部组件和轮播图实现</li>
